@@ -1,0 +1,11 @@
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src https://api.ezsites.app/api/forms/qa724-provider-r17-20261028/availability https://api.ezsites.app/api/forms/qa724-provider-r17-20261028/submissions; media-src 'self'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'
+  Referrer-Policy: no-referrer
+
+/legal
+  ! X-Robots-Tag
+  Cache-Control: no-cache
+/legal/*
+  ! X-Robots-Tag
+  Cache-Control: no-cache
